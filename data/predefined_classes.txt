@@ -1,10 +1,12 @@
 kakaotalk_id
 instagram_id
+telegram_id
 telephone
 logo_kakaotalk
 logo_instagram
 logo_naverblog
 logo_facebook
+logo_telegram
 map
 url
 address_text
