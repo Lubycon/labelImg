@@ -10,3 +10,5 @@ logo_telegram
 map
 url
 address_text
+instagram_layout
+facebook_layout
