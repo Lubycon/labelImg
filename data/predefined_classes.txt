@@ -1,7 +1,6 @@
 kakaotalk_id
 instagram_id
 telegram_id
-telephone_id
 skype_id
 logo_telephone
 logo_kakaotalk
@@ -10,6 +9,7 @@ logo_naverblog
 logo_facebook
 logo_telegram
 logo_skype
+telephone
 map
 url
 address_text
